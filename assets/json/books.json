@@ -1,0 +1,2481 @@
+[   
+    {
+		"name": "Deltarune",
+        "img": "../img/gms/deltarune.png",
+        "type": "exclusive",
+		"url": "../src/deltarune/index.html#deltarune",
+        "categories": ["indie", "rpg", "port"],
+        "source": "local" 
+	},
+    {
+		"name": "Roblox",
+        "img": "../img/gms/boringasslogo.png",
+        "type": "exclusive",
+		"url": "../src/rblx-menu/index.html#roblox",
+        "categories": ["2player", "sandbox"],
+        "source": "local"
+	},
+    {
+		"name": "8-Ball Classic",
+        "img": "../img/gms/8ball.png",
+        "type": "regular",
+		"url": "https://prod-web-pool.miniclip.com/mc?localmc",
+        "categories": ["sports", "puzzle"],
+        "source": "proxied"
+	},
+    {
+		"name": "1 on 1 Soccer",
+        "img": "../img/gms/101.png",
+        "type": "regular",
+		"url": "../src/flash/index.html?swf=1on1soccer.swf",
+        "categories": ["sports", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "1 on 1 Football",
+        "img": "../img/gms/1o1football.png",
+        "type": "regular",
+		"url": "https://script.google.com/macros/s/AKfycbwDQPy94m3iDQqxeBLkyAH8rWoNeunk0TyuS7j5qE6hSk3o3j6eoU7z5uy_qhgsKeKn/exec",
+        "categories": ["sports", "2player"],
+        "source": "proxied"
+	},
+    {
+		"name": "Pheonix Wright: Ace Attorney",
+        "img": "../img/gms/aceattourney.png",
+        "type": "regular",
+		"url": "../src/aa/index.html#aceattourney",
+        "categories": ["adventure", "puzzle"],
+        "source": "local"
+	},
+    {
+		"name": "Bendy and the Ink Machine",
+        "img": "../img/gms/batim.png",
+        "type": "exclusive",
+		"url": "../src/bendih/index.html#bendy",
+        "categories": ["adventure", "horror", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Amanda the Adventurer",
+        "img": "../img/gms/ata.png",
+        "type": "exclusive",
+		"url": "https://learn-with.jskjsv6.workers.dev/genizy/web-port/b76984e373891dc5e22fb9a7f4f784671c620420/amanda-the-adventurer/index.html",
+        "categories": ["indie", "horror", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Cookie Run Kingdom",
+        "img": "../img/gms/crk.png",
+        "type": "exclusive",
+		"url": "../src/ngg/crk/index.html#r",
+        "categories": ["rpg"],
+        "source": "local"
+	},
+    {
+		"name": "Gorilla Tag",
+        "img": "../img/gms/gtag.png",
+        "type": "exclusive",
+		"url": "../src/gtag/index.html#gtag",
+        "categories": ["adventure", "2player", "sandbox", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Arthurs Nightmare",
+        "img": "../img/gms/an.png",
+        "type": "exclusive",
+		"url": "../src/arthurs-nightmare/index.html#arthurs-nightmare",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "GTA Vice City",
+        "img": "../img/gms/vicecity.png",
+        "type": "exclusive",
+		"url": "../src/vice/index.html#vicecity",
+        "categories": ["adventure", "sandbox", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Five Nights At Freddy's",
+        "img": "../img/gms/fnaf.png",
+        "type": "regular",
+		"url": "../src/fnaf/1/index.html#fnaf",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Five Nights At Freddy's 2",
+        "img": "../img/gms/fnaf2.png",
+        "type": "regular",
+		"url": "../src/fnaf/2/index.html#fnaf2",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Five Nights At Freddy's 3",
+        "img": "../img/gms/fnaf3.png",
+        "type": "regular",
+		"url": "../src/fnaf/3/index.html#fnaf3",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+        "name": "Five Nights At Freddy's 4",
+        "img": "../img/gms/fnaf4.png",
+        "type": "regular",
+        "url": "../src/fnaf/4/index.html#fnaf4",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Five Nights At Freddy's Sister Location",
+        "img": "../img/gms/fnafsl.png",
+        "type": "exclusive",
+        "url": "../src/fnaf/sl/index.html#fnafsl",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Five Nights At Freddy's World",
+        "img": "../img/gms/fnafworld.png",
+        "type": "exclusive",
+        "url": "../src/fnaf/world/index.html#fnafworld",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Five Nights At Epstein's",
+        "img": "../img/gms/fnae.png",
+        "type": "exclusive",
+        "url": "../src/fnae/index.html#fnae",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Five Nights At Winstons",
+        "img": "../img/gms/fnaw.png",
+        "type": "exclusive",
+        "url": "../src/fnaw/index.html#fnaw",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Five Nights at Freddy's Ultimate Custom Night",
+        "img": "../img/gms/ucn.png",
+        "type": "exclusive",
+        "url": "../src/fnaf/ucn/index.html#ucn",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Five Nights At Freddy's Pizzeria Simulator",
+        "img": "../img/gms/fnafpizza.png",
+        "type": "exclusive",
+        "url": "../src/fnaf/pizza/index.html#fnafpizza",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+		"name": "Football Bros",
+        "img": "../img/gms/football-bros.png",
+        "type": "exclusive",
+		"url": "https://fb.avatarbasketball.com/",
+        "categories": ["sports"],
+        "source": "proxied"
+	},
+    {
+		"name": "Fortnite",
+        "img": "../img/gms/fortnite.png",
+        "type": "exclusive",
+		"url": "https://shorturl.at/dA8EY",
+        "categories": ["shooter"],
+        "source": "proxied"
+	},
+    {
+        "name": "Friday Night Funkin'",
+        "img": "../img/gms/fnf.png",
+        "type": "exclusive",
+        "url": "https://uploads.ungrounded.net/alternate/1528000/1528775_alternate_113347_r119.zip/?NewgroundsAPI_PublisherID=1&NewgroundsAPI_SandboxID=668c534c39440&NewgroundsAPI_SessionID=&NewgroundsAPI_UserName=%26lt%3Bdeleted%26gt%3B&NewgroundsAPI_UserID=0&ng_username=%26lt%3Bdeleted%26gt%3B",
+        "categories": ["rhythm", "indie"],
+        "source": "proxied"
+    },
+    {
+        "name": "Geometry-Dash Lite [OLD, BUGGY]",
+        "img": "../img/gms/gd-lite.png",
+        "type": "exclusive",
+        "url": "../src/gd-lite/index.html#geometrydash",
+        "categories": ["rhythm", "platformer"],
+        "source": "local"
+    },
+    {
+        "name": "Genshin Impact",
+        "img": "../img/gms/genshin.png",
+        "type": "exclusive",
+        "url": "../src/ngg/genshin/index.html#genshin",
+        "categories": ["rpg", "adventure"],
+        "source": "local"
+    },
+    {
+        "name": "Hollow Knight",
+        "img": "../img/gms/hk.png",
+        "type": "exclusive",
+        "url": "../src/hk/index.html#hollowknight",
+        "categories": ["adventure", "indie", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Hollow Knight Silksong",
+        "img": "../img/gms/hks.png",
+        "type": "exclusive",
+        "url": "../src/hk/ss/index.html#hollowknight-silksong",
+        "categories": ["adventure", "indie", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Minecraft 1.5.2",
+        "img": "../img/gms/mc152.png",
+        "type": "exclusive",
+        "url": "../src/mc/152/index.html#minecraft",
+        "categories": ["sandbox", "adventure"],
+        "source": "local"
+    },
+    {
+        "name": "Minecraft 1.8.8",
+        "img": "../img/gms/mc188.png",
+        "type": "exclusive",
+        "url": "../src/mc/188/index.html#mc188",
+        "categories": ["sandbox", "adventure"],
+        "source": "local"
+    },
+    {
+        "name": "Minecraft 1.12.2",
+        "img": "../img/gms/mc1122.png",
+        "type": "exclusive",
+        "url": "../src/mc/1122/index.html#mc1122",
+        "categories": ["sandbox", "adventure"],
+        "source": "local"
+    },
+    {
+        "name": "Minecraft 1.21.4",
+        "img": "../img/gms/mc1214.png",
+        "type": "exclusive",
+        "url": "../src/mc/1214/index.html#mc1214",
+        "categories": ["sandbox", "adventure"],
+        "source": "local"
+    },
+    {
+        "name": "Portal; Flash Version",
+        "img": "../img/gms/portal.png",
+        "type": "regular",
+        "url": "https://learn-with.jskjsv6.workers.dev/BinBashBanana/gfiles/b76984e373891dc5e22fb9a7f4f784671c620420/gfiles/flash/index.html?swf=portal.swf",
+        "categories": ["puzzle", "adventure"],
+        "source": "proxied"
+    },
+    {
+        "name": "Slender; The Eight Pages",
+        "img": "../img/gms/slender.png",
+        "type": "exclusive",
+        "url": "../src/slender/index.html#slenderman",
+        "categories": ["horror", "port"],
+        "source": "local"
+    },
+    {
+        "name": "Half-Life",
+        "img": "../img/gms/hl.png",
+        "type": "exclusive",
+        "url": "https://hl-ecru.vercel.app/",
+        "categories": ["adventure", "port"],
+        "source": "proxied"
+    },
+    {
+		"name": "Basket Bros",
+        "img": "../img/gms/basketbros.png",
+        "type": "regular",
+		"url": "https://avatarbasketball.com/index.php?game=bbros",
+        "categories": ["sports", "2player"],
+        "source": "proxied"
+	},
+    {
+		"name": "Kart Bros",
+        "img": "../img/gms/kart-bros.png",
+        "type": "regular",
+		"url": "https://kart.avatarbasketball.com",
+        "categories": ["sports"],
+        "source": "proxied"
+	},
+    {
+		"name": "Basket Random",
+        "img": "../img/gms/basket-random.png",
+        "type": "regular",
+		"url": "../src/basket-random/index.html#basket-random",
+        "categories": ["sports", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Soccer Random",
+        "img": "../img/gms/soccer-random.png",
+        "type": "regular",
+		"url": "../src/soccer-random/index.html#soccer-random",
+        "categories": ["sports", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Boxing Random",
+        "img": "../img/gms/boxing-random.png",
+        "type": "regular",
+		"url": "../src/boxing-random/index.html#boxing-random",
+        "categories": ["sports", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Volley Random",
+        "img": "../img/gms/volley-random.png",
+        "type": "regular",
+		"url": "../src/volley-random/index.html#volley-random",
+        "categories": ["sports", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Super Dark Deception",
+        "img": "../img/gms/super-dark-deception.png",
+        "type": "exclusive",
+		"url": "https://kdata1.com/2022/12/super-dark-deception/?kbhgames",
+        "categories": ["horror"],
+        "source": "proxied"
+	},
+    {
+		"name": "99 Nights In The Forest",
+        "img": "../img/gms/99-nights-forest.png",
+        "type": "exclusive",
+		"url": "https://db.quackprep.org/html/99_nights_in_the_forest/",
+        "categories": ["horror"],
+        "source": "proxied"
+	},
+    {
+        "name": "The Legend of Zelda: Ocarina of Time",
+        "img": "../img/gms/oot.png",
+        "type": "exclusive",
+        "url": "../src/emulated/n64/zelda/oot/index.html#oot",
+        "categories": ["adventure", "rpg"],
+        "source": "local"
+    },
+    {
+        "name": "The Legend of Zelda: Majora's Mask",
+        "img": "../img/gms/mm.png",
+        "type": "exclusive",
+        "url": "../src/emulated/n64/zelda/mm/index.html#mm",
+        "categories": ["adventure", "rpg"],
+        "source": "local"
+    },
+    {
+        "name": "A Dance Of Fire and Ice",
+        "img": "../img/gms/adofai.png",
+        "type": "exclusive",
+        "url": "../src/adofai/index.html#adofai",
+        "categories": ["rhythm", "indie"],
+        "source": "local"
+    },
+    {
+		"name": "Bad Parenting",
+        "img": "../img/gms/bad-parenting.png",
+        "type": "exclusive",
+		"url": "https://badparentingame.io/play/bad-parenting/",
+        "categories": ["horror"],
+        "source": "proxied"
+	},
+    {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "img": "../img/gms/botw.png",
+        "type": "exclusive",
+        "url": "../src/emulated/n64/zelda/botw/index.html#botw",
+        "categories": ["adventure", "rpg"],
+        "source": "local"
+    },
+    {
+		"name": "Untitled Goose Game",
+        "img": "../img/gms/ugg.png",
+        "type": "exclusive",
+		"url": "../src/ugg/index.html#ugg",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+        "name": "The Legend of Zelda: Link's Awakening",
+        "img": "../img/gms/la.png",
+        "type": "exclusive",
+        "url": "../src/emulated/n64/zelda/la/index.html#la",
+        "categories": ["adventure", "rpg"],
+        "source": "local"
+    },
+    {
+        "name": "The Legend of Zelda: A Link to the Past",
+        "img": "../img/gms/altp.png",
+        "type": "exclusive",
+        "url": "../src/emulated/n64/zelda/altp/index.html#altp",
+        "categories": ["adventure"],
+        "source": "local"
+    },
+    {
+		"name": "Clover Pit",
+        "img": "../img/gms/clover-pit.png",
+        "type": "exclusive",
+		"url": "../src/clover-pit/index.html#clover-pit",
+        "categories": ["puzzle", "horror"],
+        "source": "local"
+	},
+    {
+        "name": "The Legend of Zelda: Phantom Hourglass",
+        "img": "../img/gms/ph.png",
+        "type": "regular",
+        "url": "../src/emulated/n64/zelda/ph/index.html#ph",
+        "categories": ["adventure", "rpg"],
+        "source": "local"
+    },
+    {
+        "name": "The Legend of Zelda: Spirit Tracks",
+        "img": "../img/gms/st.png",
+        "type": "regular",
+        "url": "../src/emulated/n64/zelda/st/index.html#st",
+        "categories": ["adventure", "rpg"],
+        "source": "local"
+    },
+    {
+		"name": "Sandboxels",
+        "img": "../img/tls/sbx.png",
+        "type": "regular",
+		"url": "https://sandboxels.r74n.com/",
+        "categories": ["sandbox"],
+        "source": "proxied"
+	},
+    {
+        "name": "Iron Lung",
+        "img": "../img/gms/iron-lung.png",
+        "type": "exclusive",
+        "url": "../src/iron-lung/index.html#iron-lung",
+        "categories": ["horror"],
+        "source": "local"
+    },
+    {
+		"name": "Danganronpa",
+        "img": "../img/gms/danganronpa.png",
+        "type": "exclusive",
+		"url": "https://howtotech.infotechnology.com/games/danganronpa/",
+        "categories": ["horror", "adventure"],
+        "source": "proxied"
+	},
+    {
+		"name": "Baldi's Basics",
+        "img": "../img/gms/baldis-basics.png",
+        "type": "exclusive",
+		"url": "../src/baldi/index.html#baldis-basics",
+        "categories": ["puzzle", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Baldi's Basics Field Trip",
+        "img": "../img/gms/baldis-basics-field-trip.png",
+        "type": "exclusive",
+		"url": "../src/baldi/camping/index.html#baldis-basics-field-trip",
+        "categories": ["puzzle", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Baldi's Basics Plus",
+        "img": "../img/gms/baldi-plus.png",
+        "type": "exclusive",
+		"url": "../src/baldi/plus/index.html#baldis-plus",
+        "categories": ["puzzle", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Baldi's Basics; The Ultra Decompile",
+        "img": "../img/gms/baldi-tud.png",
+        "type": "exclusive",
+		"url": "../src/baldi/tud/index.html#baldis-ultra-decompile",
+        "categories": ["puzzle", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Baldi's Basics; Remastered",
+        "img": "../img/gms/baldi-remastered.png",
+        "type": "exclusive",
+		"url": "../src/baldi/remastered/index.html#baldis-basics-remastered",
+        "categories": ["puzzle", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Baldi's Fun New School Ultimate",
+        "img": "../img/gms/baldi-fnsu.png",
+        "type": "exclusive",
+		"url": "../src/baldi/fnsu/index.html#baldis-fun-new-school-ultimate",
+        "categories": ["puzzle", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Buckshot Roulette",
+        "img": "../img/gms/buckshot-roulette.png",
+        "type": "exclusive",
+		"url": "../src/buckshot-roulette/index.html#buckshot-roulette",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Bowmasters",
+        "img": "../img/gms/bowmasters.png",
+        "type": "regular",
+		"url": "../src/bowmasters/index.html#bowmasters",
+        "categories": ["2player", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Bouncemasters",
+        "img": "../img/gms/bouncemasters.png",
+        "type": "regular",
+		"url": "../src/bouncemasters/index.html#bouncemasters",
+        "categories": ["other", "port", "platformer"],
+        "source": "local"
+	},
+    {
+		"name": "Bloodmoney",
+        "img": "../img/gms/bloodmoney.png",
+        "type": "exclusive",
+		"url": "../src/bloodmoney/index.html#bloodmoney",
+        "categories": ["adventure", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Bergentruck 201x",
+        "img": "../img/gms/bergentruck-201x.png",
+        "type": "exclusive",
+		"url": "../src/bergentruck/index.html#bergentruck-201x",
+        "categories": ["adventure", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Class of '09",
+        "img": "../img/gms/class-of-09.png",
+        "type": "regular",
+		"url": "https://justjxrdanwasdefinetlytaken.github.io/ClassOf09Games/C09/index.html",
+        "categories": ["other", "indie", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Class of '09; The Re-up",
+        "img": "../img/gms/class-of-09-re-up.png",
+        "type": "regular",
+		"url": "https://justjxrdanwasdefinetlytaken.github.io/ClassOf09Games/C09RU/index.html",
+        "categories": ["other", "indie", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Class of '09; The Flipside",
+        "img": "../img/gms/class-of-09-flipside.png",
+        "type": "regular",
+		"url": "https://justjxrdanwasdefinetlytaken.github.io/ClassOf09Games/C09FS/index.html",
+        "categories": ["other", "indie", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Class of '09 Demo",
+        "img": "../img/gms/class-of-09-demo.png",
+        "type": "regular",
+		"url": "../src/class-of-09-demo/index.html#class-of-09-demo",
+        "categories": ["other", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Cuphead",
+        "img": "../img/gms/cuphead.png",
+        "type": "regular",
+		"url": "../src/cuphead/index.html#cuphead",
+        "categories": ["adventure", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Celeste",
+        "img": "../img/gms/celeste.png",
+        "type": "regular",
+		"url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+        "categories": ["platformer", "indie", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Celeste 2",
+        "img": "../img/gms/celeste-2.png",
+        "type": "regular",
+		"url": "../src/celeste-2/index.html#celeste-2",
+        "categories": ["platformer", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Doki Doki Literature Club",
+        "img": "../img/gms/ddlc.png",
+        "type": "regular",
+		"url": "../src/doki/index.html#doki-doki-literature-club",
+        "categories": ["adventure", "indie", "port", "horror"],
+        "source": "local"
+	},
+    {
+		"name": "Osu!",
+        "img": "../img/gms/osu.png",
+        "type": "exclusive",
+		"url": "../src/osu/index.html#osu",
+        "categories": ["rhythm", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Deltatraveler",
+        "img": "../img/gms/deltatraveler.png",
+        "type": "exclusive",
+		"url": "../src/deltatravel/index.html#deltatraveler",
+        "categories": ["adventure", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Clash Of Vikings",
+        "img": "../img/gms/cov.png",
+        "type": "regular",
+		"url": "../src/evil-clash/index.html#clash-of-vikings",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Deadseat",
+        "img": "../img/gms/deadseat.png",
+        "type": "regular",
+		"url": "../src/deadseat/index.html#deadseat",
+        "categories": ["horror", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Deadplate",
+        "img": "../img/gms/deadplate.png",
+        "type": "regular",
+		"url": "../src/deadplate/index.html#deadplate",
+        "categories": ["horror", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Undertale (broken)",
+        "img": "../img/gms/ut.png",
+        "type": "exclusive",
+		"url": "../src/ut/index.html#undertale",
+        "categories": ["adventure", "indie", "port", "rpg"],
+        "source": "local"
+	},
+    {
+		"name": "Balatro",
+        "img": "../img/gms/balatro.png",
+        "type": "exclusive",
+		"url": "../src/balatro/index.html#balatro",
+        "categories": ["puzzle", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "24/7 Chess",
+        "img": "../img/gms/247chess.png",
+        "type": "exclusive",
+		"url": "../src/chess/index.html#247-chess",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "24/7 Blackjack",
+        "img": "../img/gms/247blackjack.png",
+        "type": "exclusive",
+		"url": "../src/blackjack/index.html#247-blackjack",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "24/7 Poker",
+        "img": "../img/gms/247poker.png",
+        "type": "exclusive",
+		"url": "../src/poker/index.html#247-poker",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Buildnow.gg",
+        "img": "../img/gms/buildnowgg.png",
+        "type": "exclusive",
+		"url": "https://www.crazygames.com/embed/buildnow-gg",
+        "categories": ["2player", "sandbox", "shooter"],
+        "source": "proxied"
+	},
+    {
+		"name": "Fortzone Battle Royale",
+        "img": "../img/gms/fortzone.png",
+        "type": "regular",
+		"url": "https://www.crazygames.com/embed/fortzone-battle-royale-xkd",
+        "categories": ["2player", "sandbox", "shooter"],
+        "source": "proxied"
+	},
+    {
+		"name": "ULTRAKILL",
+        "img": "../img/gms/ultrakill.png",
+        "type": "exclusive",
+		"url": "../src/ultrakill/index.html#ultrakill",
+        "categories": ["adventure", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Totally Accurate Battle Simulator (TABS)",
+        "img": "../img/gms/tabs.png",
+        "type": "regular",
+		"url": "../src/tabs/index.html#totally-accurate-battle-simulator",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "The Man From The Window",
+        "img": "../img/gms/theman.png",
+        "type": "regular",
+		"url": "https://learn-with.jskjsv6.workers.dev/genizy/web-port/b76984e373891dc5e22fb9a7f4f784671c620420/the-man-in-the-window/index.html",
+        "categories": ["horror", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "The Last Spartan",
+        "img": "../img/gms/thelastspartan.png",
+        "type": "regular",
+		"url": "../src/the-last-spartan/index.html#the-last-spartan",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Undertale Enchanted",
+        "img": "../img/gms/ute.png",
+        "type": "exclusive",
+		"url": "https://kdata1.com/2022/03/undetale-enchanted/",
+        "categories": ["indie", "puzzle", "rpg"],
+        "source": "proxied"
+	},
+    {
+		"name": "WOP [Kendrick V. Drake]",
+        "img": "../img/gms/wop.png",
+        "type": "regular",
+		"url": "https://uploads.ungrounded.net/alternate/5718000/5718771_alternate_264276_r21.zip/?NewgroundsAPI_PublisherID=1&NewgroundsAPI_SandboxID=66a1c614e42ab&NewgroundsAPI_SessionID=&NewgroundsAPI_UserName=%26lt%3Bdeleted%26gt%3B&NewgroundsAPI_UserID=0&ng_username=%26lt%3Bdeleted%26gt%3B",
+        "categories": ["sandbox", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "Venge.IO",
+        "img": "../img/gms/venge.png",
+        "type": "regular",
+		"url": "https://www.venge.io/",
+        "categories": ["2player", "shooter"],
+        "source": "proxied"
+	},
+    {
+		"name": "Wrestle Bros",
+        "img": "../img/gms/wrestlebros.png",
+        "type": "regular",
+		"url": "https://wb.avatarbasketball.com/",
+        "categories": ["2player", "sports"],
+        "source": "proxied"
+	},
+    {
+		"name": "Web Fishing",
+        "img": "../img/gms/webfishing.png",
+        "type": "regular",
+		"url": "../src/webfishing/index.html#web-fishing",
+        "categories": ["rpg", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Undertale Yellow",
+        "img": "../img/gms/uty.png",
+        "type": "regular",
+		"url": "../src/uty/index.html#undertale-yellow",
+        "categories": ["rpg", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Yandere Simulator",
+        "img": "../img/gms/yandere.png",
+        "type": "regular",
+		"url": "../src/yandere/index.html#yandere-simulator",
+        "categories": ["indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Yume Nikki",
+        "img": "../img/gms/yume.png",
+        "type": "regular",
+		"url": "https://learn-with.jskjsv6.workers.dev/genizy/web-port/b76984e373891dc5e22fb9a7f4f784671c620420/yume-nikki/index.html",
+        "categories": ["indie", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Jumbo Mario",
+        "img": "../img/gms/jumbomario.png",
+        "type": "regular",
+		"url": "../src/jumbo-mario/index.html#jumbo-mario",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Shift At Midnight",
+        "img": "../img/gms/shiftatmidnight.png",
+        "type": "exclusive",
+		"url": "../src/shift-at-midnight/index.html#shift-at-midnight",
+        "categories": ["horror", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Super Mario 64 but with a shotgun (shotgun mario)",
+        "img": "../img/gms/shotgun-mario.png",
+        "type": "exclusive",
+		"url": "../src/shotgun-mario/index.html#shotgun-mario",
+        "categories": ["platformer", "indie", "shooter"],
+        "source": "local"
+	},
+    {
+		"name": "Terraria",
+        "img": "../img/gms/thebigraria.png",
+        "type": "exclusive",
+		"url": "../src/rraria/index.html#terraria",
+        "categories": ["indie", "adventure", "sandbox", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Pizza Tower",
+        "img": "../img/gms/pizzatower.png",
+        "type": "exclusive",
+		"url": "../src/pizza-tower/index.html#pizza-tower",
+        "categories": ["indie", "platformer", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Pizza Tower; Scoutdigo",
+        "img": "../img/gms/pizzatowerscoutdigo.png",
+        "type": "exclusive",
+		"url": "../src/pizza-tower/scoutdigo/index.html#pizza-tower-scoutdigo",
+        "categories": ["indie", "platformer", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Basketball Stars",
+        "img": "../img/gms/basketballstars.png",
+        "type": "regular",
+		"url": "../src/basketball-stars/index.html#basketball-stars",
+        "categories": ["sports", "indie", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Football Legends",
+        "img": "../img/gms/footballlegends.png",
+        "type": "regular",
+		"url": "../src/football-stars/index.html#football-legends",
+        "categories": ["sports", "indie", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Basketball Legends 2020",
+        "img": "../img/gms/basketballlegends.png",
+        "type": "regular",
+		"url": "../src/basketball-legends/index.html#basketball-legends",
+        "categories": ["sports", "indie", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Beach Boxing Simulator",
+        "img": "../img/gms/bbs.png",
+        "type": "regular",
+		"url": "../src/bbs/index.html#beach-boxing-simulator",
+        "categories": ["sports", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Battle Karts",
+        "img": "../img/gms/bk.png",
+        "type": "regular",
+		"url": "../src/bk/index.html#battle-karts",
+        "categories": ["sports", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Basketball Superstars",
+        "img": "../img/gms/b-bs.png",
+        "type": "regular",
+		"url": "../src/basketball-superstars/index.html#basketball-superstars",
+        "categories": ["sports", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Smash Karts",
+        "img": "../img/gms/sk.png",
+        "type": "regular",
+		"url": "../src/smash-karts/index.html#smash-karts",
+        "categories": ["sports", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Obby Roads",
+        "img": "../img/gms/obbyroads.png",
+        "type": "regular",
+		"url": "https://obbyroads.io",
+        "categories": ["platformer", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "Granny",
+        "img": "../img/gms/granny.png",
+        "type": "regular",
+		"url": "../src/granny/index.html#granny",
+        "categories": ["horror", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Granny 2",
+        "img": "../img/gms/granny2.png",
+        "type": "regular",
+		"url": "../src/granny/2/index.html#granny-2",
+        "categories": ["horror", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Granny 3",
+        "img": "../img/gms/granny3.png",
+        "type": "regular",
+		"url": "../src/granny/3/index.html#granny-3",
+        "categories": ["horror", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Moto X3M",
+        "img": "../img/gms/motox3m.png",
+        "type": "regular",
+		"url": "../src/moto-x3m/index.html#moto-x3m",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Moto X3M 2",
+        "img": "../img/gms/motox3m2.png",
+        "type": "regular",
+		"url": "../src/moto-x3m/2/index.html#moto-x3m-2",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Moto X3M 3",
+        "img": "../img/gms/motox3m3.png",
+        "type": "regular",
+		"url": "../src/moto-x3m/3/index.html#moto-x3m-3",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Moto X3M; Pool Party",
+        "img": "../img/gms/motox3m-pool-party.png",
+        "type": "regular",
+		"url": "../src/moto-x3m/pool-party/index.html#moto-x3m-pool-party",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Moto X3M; Spooky Land",
+        "img": "../img/gms/motox3m-spooky-land.png",
+        "type": "regular",
+		"url": "../src/moto-x3m/spooky-land/index.html#moto-x3m-spooky-land",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex X3M",
+        "img": "../img/gms/vexx3m.png",
+        "type": "regular",
+		"url": "../src/vex/x3m/index.html#vex-x3m",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex X3M 2",
+        "img": "../img/gms/vexx3m2.png",
+        "type": "regular",
+		"url": "../src/vex/x3m/2/index.html#vex-x3m-2",
+        "categories": ["puzzle", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex",
+        "img": "../img/gms/vex.png",
+        "type": "regular",
+		"url": "../src/vex/index.html#vex",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex 2",
+        "img": "../img/gms/vex2.png",
+        "type": "regular",
+		"url": "../src/vex/2/index.html#vex-2",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex 3",
+        "img": "../img/gms/vex3.png",
+        "type": "regular",
+		"url": "../src/vex/3/index.html#vex-3",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex 4",
+        "img": "../img/gms/vex4.png",
+        "type": "regular",
+		"url": "../src/vex/4/index.html#vex-4",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex 5",
+        "img": "../img/gms/vex5.png",
+        "type": "regular",
+		"url": "../src/vex/5/index.html#vex-5",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Vex 6",
+        "img": "../img/gms/vex6.png",
+        "type": "regular",
+		"url": "../src/vex/6/index.html#vex-6",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+	{
+		"name": "Vex 7",
+        "img": "../img/gms/vex7.png",
+        "type": "regular",
+		"url": "../src/vex/7/index.html#vex-7",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+        "name": "Vex 8",
+        "img": "../img/gms/vex8.png",
+        "type": "regular",
+        "url": "../src/vex/8/index.html#vex-8",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Coal LLC",
+        "img": "../img/gms/coal-llc.png",
+        "type": "popular",
+		"url": "https://html-classic.itch.zone/html/13732799/v0.2.8.1/index.html",
+        "categories": ["rpg", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "Big Shot Boxing",
+        "img": "../img/gms/big-shot-boxing.png",
+        "type": "regular",
+		"url": "../src/big-shot-boxing/index.html#big-shot-boxing",
+        "categories": ["sports"],
+        "source": "local"
+	},
+    {
+		"name": "Idle Breakout",
+        "img": "../img/gms/idle-breakout.png",
+        "type": "regular",
+		"url": "../src/idle-breakout/index.html#idle-breakout",
+        "categories": ["puzzle"],
+        "source": "local"
+	},
+    {
+		"name": "BFDIA 5b",
+        "img": "../img/gms/bfdia.png",
+        "type": "exclusive",
+		"url": "../src/bdfia-fb/index.html#BFDIA-5b",
+        "categories": ["rpg", "indie", "port", "platformer"],
+        "source": "local"
+	},
+    {
+		"name": "R.E.P.O (REPO)",
+        "img": "../img/gms/repo.png",
+        "type": "regular",
+		"url": "../src/repo/index.html#REPO",
+        "categories": ["horror", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Big Tower Tiny Square",
+        "img": "../img/gms/btts.png",
+        "type": "regular",
+		"url": "https://ubg98.github.io/BigTowerTinySquare/",
+        "categories": ["platformer"],
+        "source": "proxied"
+	},
+    {
+		"name": "Big Tower Tiny Square 2",
+        "img": "../img/gms/btts2.png",
+        "type": "regular",
+		"url": "../src/btts/2/index.html#big-town-tiny-square",
+        "categories": ["platformer"],
+        "source": "local"
+	},
+    {
+		"name": "GX Launcher",
+        "img": "../img/gms/gx-launcher.png",
+        "type": "exclusive",
+		"url": "https://gx-launcher.github.io/",
+        "categories": ["sandbox"],
+        "source": "proxied"
+	},
+    {
+		"name": "Slope",
+        "img": "../img/gms/slope.png",
+        "type": "regular",
+		"url": "../src/slope/index.html#slope",
+        "categories": ["platformer"],
+        "source": "local"
+	},
+    {
+		"name": "Madden NFL 24",
+        "img": "../img/gms/madden24.png",
+        "type": "exclusive",
+		"url": "../src/ngg/madden/index.html#r",
+        "categories": ["sports"],
+        "source": "local"
+	},
+    {
+		"name": "Plants Vs Zombies",
+        "img": "../img/gms/pvz.png",
+        "type": "exclusive",
+		"url": "../src/pvz/index.html#plants-vs-zombies",
+        "categories": ["rpg", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Plants Vs Zombies 2",
+        "img": "../img/gms/pvz2.png",
+        "type": "exclusive",
+		"url": "https://html-classic.itch.zone/html/12196143/index.html",
+        "categories": ["rpg", "indie", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Drive Mad",
+        "img": "../img/gms/drive-mad.png",
+        "type": "regular",
+		"url": "../src/drive-mad/index.html#drive-mad",
+        "categories": ["sports", "indie", "platformer"],
+        "source": "local"
+	},
+    {
+		"name": "Escape Road",
+        "img": "../img/gms/escape-road.png",
+        "type": "exclusive",
+		"url": "../src/escape-road/index.html#escape-road",
+        "categories": ["sports", "rpg"],
+        "source": "local"
+	},
+    {
+		"name": "Escape Road 2",
+        "img": "../img/gms/escape-road-2.png",
+        "type": "exclusive",
+		"url": "../src/escape-road/2/index.html#escape-road-2",
+        "categories": ["adventure"],
+        "source": "local"
+	},
+    {
+		"name": "Sort The Court",
+        "img": "../img/gms/sort-the-court.png",
+        "type": "exclusive",
+		"url": "../src/sort-the-court/index.html#sort-the-court",
+        "categories": ["puzzle"],
+        "source": "local"
+	},
+    {
+		"name": "Resident Evil 2",
+        "img": "../img/gms/resident-evil-2.png",
+        "type": "exclusive",
+		"url": "../src/resident-evil-2/index.html#resident-evil-2",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Supreme Duelist",
+        "img": "../img/gms/supreme-duelist.png",
+        "type": "regular",
+		"url": "../src/supreme-duelist/index.html#supreme-duelist",
+        "categories": ["rpg", "indie", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Cookie Clicker",
+        "img": "../img/gms/cookie-clicker.png",
+        "type": "regular",
+		"url": "../src/cookie-clicker/index.html#cookie-clicker",
+        "categories": ["other", "puzzle"],
+        "source": "local"
+	},
+    {
+		"name": "Survivor.io",
+        "img": "../img/gms/survivor-io.png",
+        "type": "exclusive",
+		"url": "../src/survivor-io/index.html#survivor-io",
+        "categories": ["2player"],
+        "source": "local"
+	},
+    {
+		"name": "Brotato",
+        "img": "../img/gms/brotato.png",
+        "type": "exclusive",
+		"url": "../src/brotato/index.html#brotato",
+        "categories": ["2player", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Midnight Shift",
+        "img": "../img/gms/midnight-shift.png",
+        "type": "exclusive",
+		"url": "../src/midnight-shift/index.html#midnight-shift",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Christmas Massacre",
+        "img": "../img/gms/christmas-massacre.png",
+        "type": "exclusive",
+		"url": "../src/christmas-massacre/index.html#christmas-massacre",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Polytrack",
+        "img": "../img/gms/polytrack.png",
+        "type": "regular",
+		"url": "../src/polytrack/index.html#polytrack",
+        "categories": ["sports"],
+        "source": "local"
+	},
+    {
+		"name": "Brawlhalla",
+        "img": "../img/gms/brawlhalla.png",
+        "type": "exclusive",
+		"url": "https://shorturl.at/VwJxj",
+        "categories": ["rpg", "indie", "2player", "platformer"],
+        "source": "proxied"
+	},
+    {
+		"name": "Veck.io",
+        "img": "../img/gms/veck-io.png",
+        "type": "regular",
+		"url": "https://veck.io",
+        "categories": ["2player", "shooter"],
+        "source": "proxied"
+	},
+    {
+		"name": "Nazi Zombies; Portable (nzp)",
+        "img": "../img/gms/nzp.png",
+        "type": "exclusive",
+		"url": "../src/nzp/index.html#nazi-zombies-portable",
+        "categories": ["rpg", "horror", "port", "shooter"],
+        "source": "local"
+	},
+    {
+		"name": "Oneshot [LEGACY]",
+        "img": "../img/gms/oneshot.png",
+        "type": "regular",
+		"url": "../src/oneshot/index.html#oneshot",
+        "categories": ["rpg", "port", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Retro Bowl",
+        "img": "../img/gms/rb.png",
+        "type": "regular",
+		"url": "../src/retro-bowl/index.html#retro-bowl",
+        "categories": ["indie", "sports"],
+        "source": "local"
+	},
+    {
+		"name": "Retro Bowl College",
+        "img": "../img/gms/rbc.png",
+        "type": "regular",
+		"url": "../src/retro-bowl/college/index.html#retro-bowl-college",
+        "categories": ["sports", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Jojo's Bizzare Adventure",
+        "img": "../img/gms/jjba.png",
+        "type": "exclusive",
+		"url": "../src/jojoba/index.html#jjba",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "OvO",
+        "img": "../img/gms/ovo.png",
+        "type": "regular",
+		"url": "../src/ovo/index.html#ovo",
+        "categories": ["platformer"],
+        "source": "local"
+	},
+    {
+		"name": "Funny Shooter",
+        "img": "../img/gms/funny-shooter.png",
+        "type": "regular",
+		"url": "../src/funny/index.html#funny-shooter",
+        "categories": ["shooter"],
+        "source": "local"
+	},
+    {
+		"name": "Grand Theft Auto (GTA)",
+        "img": "../img/gms/gta.png",
+        "type": "regular",
+		"url": "../src/gta/index.html#grand-theft-auto",
+        "categories": ["shooter", "rpg", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Grand Theft Auto 2 (GTA 2)",
+        "img": "../img/gms/gta2.png",
+        "type": "regular",
+		"url": "../src/gta/2/index.html#grand-theft-auto",
+        "categories": ["shooter", "rpg", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Core Ball",
+        "img": "../img/gms/coreball.png",
+        "type": "regular",
+		"url": "../src/core-ball/index.html#core-ball",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Melon Massacre",
+        "img": "../img/gms/melon.png",
+        "type": "exclusive",
+		"url": "../src/melon-massacre/index.html#melon-massacre",
+        "categories": ["shooter", "indie", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Crazy Cattle 3D",
+        "img": "../img/gms/cc3d.png",
+        "type": "regular",
+		"url": "../src/cc3d/index.html#crazy-cattle-3d",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Happy Wheels",
+        "img": "../img/gms/hw.png",
+        "type": "regular",
+		"url": "../src/hw/index.html#happy-wheels",
+        "categories": ["platformer", "sandbox"],
+        "source": "local"
+	},
+    {
+		"name": "Rain World",
+        "img": "../img/gms/rw.png",
+        "type": "exclusive",
+		"url": "https://shorturl.at/dfyGy",
+        "categories": ["adventure", "platformer"],
+        "source": "proxied"
+	},
+    {
+		"name": "Bad Piggies",
+        "img": "../img/gms/bp.png",
+        "type": "regular",
+		"url": "../src/bad-piggies/index.html#bad-piggies",
+        "categories": ["platformer", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Super Monkey Ball 1 and 2",
+        "img": "../img/gms/smb.png",
+        "type": "exclusive",
+		"url": "../src/smb/index.html#super-monkey-ball",
+        "categories": ["port", "platformer"],
+        "source": "local"
+	},
+    {
+		"name": "Your Only Move Is HUSTLE (yomi hustle)",
+        "img": "../img/gms/yomi.png",
+        "type": "exclusive",
+		"url": "../src/yomihustle/index.html#yomi-hustle",
+        "categories": ["indie", "adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Tough Love Arena",
+        "img": "../img/gms/tla.png",
+        "type": "exclusive",
+		"url": "https://toughlovearena.com",
+        "categories": ["2player", "adventure", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Sonic Revert",
+        "img": "../img/gms/sr.png",
+        "type": "regular",
+		"url": "../src/sr/index.html#sonic-revert",
+        "categories": ["platformer", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Rocket Soccer Derby",
+        "img": "../img/gms/rsd.png",
+        "type": "regular",
+		"url": "../src/rsd/index.html#rocket-soccer-derby",
+        "categories": ["2player", "other"],
+        "source": "local"
+	},
+    {
+		"name": "Gladihoppers",
+        "img": "../img/gms/gladihoppers.png",
+        "type": "regular",
+		"url": "../src/gladihoppers/index.html#gladihoppers",
+        "categories": ["2player", "adventure"],
+        "source": "local"
+	},
+    {
+		"name": "Tag",
+        "img": "../img/gms/tag.png",
+        "type": "regular",
+		"url": "../src/tag/index.html#tag",
+        "categories": ["platformer", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Tag [UPDATED]",
+        "img": "../img/gms/tagupd.png",
+        "type": "regular",
+		"url": "../src/tag/update/index.html#tag-updated",
+        "categories": ["platformer", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Kindergarten",
+        "img": "../img/gms/kindergarten.png",
+        "type": "regular",
+		"url": "../src/kindergarten/index.html#kindergarten",
+        "categories": ["adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Kindergarten 2",
+        "img": "../img/gms/kindergarten-2.png",
+        "type": "regular",
+		"url": "../src/kindergarten/2/index.html#kindergarten-2",
+        "categories": ["adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Kindergarten 3",
+        "img": "../img/gms/kindergarten-3.png",
+        "type": "regular",
+		"url": "../src/kindergarten/3/index.html#kindergarten-3",
+        "categories": ["adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Five Nights At Last Breath",
+        "img": "../img/gms/fnalb.png",
+        "type": "exclusive",
+		"url": "../src/fnalb/index.html#five-nights-at-last-breath",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Jeffrey Epstein's Basics in Education and Kidnapping",
+        "img": "../img/gms/jeieak.png",
+        "type": "exclusive",
+		"url": "../src/ep-learn/index.html#estein",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Undertale Last Breath",
+        "img": "../img/gms/last-breath.png",
+        "type": "exclusive",
+		"url": "../src/last-breath/index.html#last-breath",
+        "categories": ["platformer", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Undertale Last Breath (PHASE 3)",
+        "img": "../img/gms/last-breath-3.png",
+        "type": "exclusive",
+		"url": "../src/last-breath/phase-three/index.html#last-breath-3",
+        "categories": ["platformer", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Bad Monday Simulator",
+        "img": "../img/gms/bms.png",
+        "type": "regular",
+		"url": "../src/bad-monday-sim/index.html#bad-monday-simulator",
+        "categories": ["platformer", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Bad Bodyguards",
+        "img": "../img/gms/badbody.png",
+        "type": "regular",
+		"url": "../src/bad-bodyguards/index.html#bad-bodyguards",
+        "categories": ["rpg", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Bad Time Simulator",
+        "img": "../img/gms/bad-time-sim.png",
+        "type": "regular",
+		"url": "../src/bad-time-sim/index.html#bad-time-simulator",
+        "categories": ["indie", "other"],
+        "source": "local"
+	},
+    {
+		"name": "Resident Evil",
+        "img": "../img/gms/re.png",
+        "type": "regular",
+		"url": "../src/re/index.html#resident-evil",
+        "categories": ["horror", "other"],
+        "source": "local"
+	},
+    {
+		"name": "Resident Evil 3",
+        "img": "../img/gms/re3.png",
+        "type": "regular",
+		"url": "../src/re/3/index.html#resident-evil",
+        "categories": ["horror", "other"],
+        "source": "local"
+	},
+    {
+		"name": "Apes vs Helium",
+        "img": "../img/gms/apes.png",
+        "type": "exclusive",
+		"url": "../src/apes/index.html#apes-vs-helium",
+        "categories": ["shooter", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Worst Time Simulator",
+        "img": "../img/gms/wts.png",
+        "type": "exclusive",
+		"url": "https://omegafredo.github.io/worst-time-simulator/",
+        "categories": ["port", "other"],
+        "source": "proxied"
+	},
+    {
+		"name": "Kirka.io",
+        "img": "../img/gms/kirka.png",
+        "type": "regular",
+		"url": "https://kirka.io",
+        "categories": ["shooter", "2player"],
+        "source": "proxied"
+	},
+    {
+		"name": "Taming.io",
+        "img": "../img/gms/taming.png",
+        "type": "exclusive",
+		"url": "https://taming.io",
+        "categories": ["2player", "other"],
+        "source": "proxied"
+	},
+    {
+		"name": "Binding Of Issac; Wrath of the Lamb",
+        "img": "../img/gms/boiwotl.png",
+        "type": "regular",
+		"url": "../src/boi/wrath-of-the-lamb/index.html#binding-of-issac-lamb",
+        "categories": ["indie", "adventure", "shooter"],
+        "source": "local"
+	},
+    {
+		"name": "Roblox 2016 [WEBBLOX]",
+        "img": "../img/gms/webblox.png",
+        "type": "exclusive",
+		"url": "../src/rblx-2016/index.html#roblox-port",
+        "categories": ["sandbox", "port"],
+        "source": "local"
+	},
+    {
+		"name": "They Are Coming",
+        "img": "../img/gms/they-are-coming.png",
+        "type": "regular",
+		"url": "https://kbhgames.com/wp-content/themes/v1/embed.php?url=https://yandex.com/games/app/385957?utm_source=distrib&is-united-page=1&skip-guard=1&header=no&utm_medium=kbhgames.com&clid=2818308&flags={%22adv_sticky_banner_disabled%22:true}&canonical=https://kbhgames.com/game/they-are-coming&w=960&h=600",
+        "categories": ["horror", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "Grow Your Guarden",
+        "img": "../img/gms/gyg.png",
+        "type": "exclusive",
+		"url": "https://html-classic.itch.zone/html/8590579/index.html?v=1732313627",
+        "categories": ["adventure", "indie", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "SWOOOP",
+        "img": "../img/gms/swooop.png",
+        "type": "regular",
+		"url": "https://playcanv.as/p/JtL2iqIH/",
+        "categories": ["other", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "Helltaker",
+        "img": "../img/gms/helltaker.png",
+        "type": "exclusive",
+		"url": "../src/helltaker/index.html#helltaker",
+        "categories": ["indie", "other", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Super Mario Bros",
+        "img": "../img/gms/super.png",
+        "type": "regular",
+		"url": "../src/super-mario-bros/index.html#super-mario-bros",
+        "categories": ["platformer"],
+        "source": "local"
+	},
+    {
+		"name": "Pokemon Emerald",
+        "img": "../img/gms/pokemon-emerald.png",
+        "type": "regular",
+		"url": "https://raw.githack.com/MkGamesdev/MKGBA2.0/master/launcher.html#pokemonemerald",
+        "categories": ["rpg"],
+        "source": "proxied"
+	},
+    {
+		"name": "Pokemon LeafGreen",
+        "img": "../img/gms/pokemon-leafgreen.png",
+        "type": "regular",
+		"url": "https://cooleoooo662.github.io/GBA-Emulator-Unblocked/launcher.html#pokemongreen",
+        "categories": ["rpg"],
+        "source": "proxied"
+	},
+    {
+		"name": "Pokemon Red",
+        "img": "../img/gms/pokemon-red.png",
+        "type": "regular",
+		"url": "https://cooleoooo662.github.io/GBA-Emulator-Unblocked/launcher.html#pokemonred",
+        "categories": ["rpg"],
+        "source": "proxied"
+	},
+    {
+		"name": "Pokemon Ruby",
+        "img": "../img/gms/pokemon-ruby.png",
+        "type": "regular",
+		"url": "https://cooleoooo662.github.io/GBA-Emulator-Unblocked/launcher.html#pokemonruby",
+        "categories": ["rpg"],
+        "source": "proxied"
+	},
+    {
+		"name": "Pokemon Sapphire",
+        "img": "../img/gms/pokemon-sapphire.png",
+        "type": "regular",
+		"url": "https://cooleoooo662.github.io/GBA-Emulator-Unblocked/launcher.html#pokemonsapphire",
+        "categories": ["rpg"],
+        "source": "proxied"
+	},
+    {
+		"name": "Pokemon Showdown",
+        "img": "../img/gms/pokemonshowdown.png",
+        "type": "regular",
+		"url": "https://play.pokemonshowdown.com/",
+        "categories": ["rpg"],
+        "source": "proxied"
+	},
+    {
+		"name": "Team Fortress 2",
+        "img": "../img/gms/tf2.png",
+        "type": "regular",
+		"url": "https://shorturl.at/GxfXz",
+        "categories": ["shooter"],
+        "source": "proxied"
+	},
+    {
+		"name": "Paper Mario",
+        "img": "../img/gms/paper-mario.png",
+        "type": "regular",
+		"url": "../src/paper-mario/index.html#paper-mario",
+        "categories": ["rpg"],
+        "source": "local"
+	},
+    {
+		"name": "Ragdoll Archers",
+        "img": "../img/gms/ragdoll-archers.png",
+        "type": "regular",
+		"url": "../src/ragdoll-archers/index.html#ragdoll-archers",
+        "categories": ["adventure", "indie", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Zombs Royale",
+        "img": "../img/gms/zombsroyale.png",
+        "type": "regular",
+		"url": "https://zombsroyale.io",
+        "categories": ["shooter", "2player"],
+        "source": "proxied"
+	},
+    {
+		"name": "Rooftop Run",
+        "img": "../img/gms/rooftop-run.png",
+        "type": "regular",
+		"url": "../src/rooftop-run/index.html#rooftop-run",
+        "categories": ["platformer"],
+        "source": "local"
+	},
+    {
+		"name": "People Playground",
+        "img": "../img/gms/people-playground.png",
+        "type": "regular",
+		"url": "../src/people-playground/index.html#people-playground",
+        "categories": ["platformer"],
+        "source": "local"
+	},
+    {
+		"name": "Cat Mario",
+        "img": "../img/gms/cat-mario.png",
+        "type": "regular",
+		"url": "https://tiwb.github.io/catmario/",
+        "categories": ["platformer"],
+        "source": "proxied"
+	},
+    {
+		"name": "Bitlife",
+        "img": "../img/gms/bitlife.png",
+        "type": "regular",
+		"url": "../src/bitlife/index.html#bitlife",
+        "categories": ["other", "rpg"],
+        "source": "local"
+	},
+    {
+		"name": "Xevious",
+        "img": "../img/gms/xevious.png",
+        "type": "regular",
+		"url": "../src/xevious/index.html#xevious",
+        "categories": ["shooter"],
+        "source": "local"
+	},
+    {
+		"name": "Super Smash Flash",
+        "img": "../img/gms/ssf.png",
+        "type": "regular",
+		"url": "../src/ssf/index.html#super-smash-flash",
+        "categories": ["2player"],
+        "source": "local"
+	},
+    {
+		"name": "Super Smash Flash 2",
+        "img": "../img/gms/ssf2.png",
+        "type": "regular",
+		"url": "../src/ssf/2/index.html#super-smash-flash-2",
+        "categories": ["2player"],
+        "source": "local"
+	},
+    {
+		"name": "Smash Remix",
+        "img": "../img/gms/smashremix.png",
+        "type": "regular",
+		"url": "../src/smash-remix/index.html#smash-remix",
+        "categories": ["2player"],
+        "source": "local"
+	},
+    {
+		"name": "Smash Remix 2.0.1x",
+        "img": "../img/gms/smashremix2.png",
+        "type": "regular",
+		"url": "../src/smash-remix/2/index.html#smash-remix-2.0.1x",
+        "categories": ["2player"],
+        "source": "local"
+	},
+    {
+		"name": "Street Fighter",
+        "img": "../img/gms/street-fighter.png",
+        "type": "regular",
+		"url": "../src/street-fighter/index.html#street-fighter",
+        "categories": ["rpg", "2player"],
+        "source": "local"
+	},
+    {
+		"name": "Fallout",
+        "img": "../img/gms/fallout.png",
+        "type": "exclusive",
+		"url": "../src/fallout/index.html#fallout",
+        "categories": ["rpg", "horror"],
+        "source": "local"
+	},
+    {
+		"name": "Baby Sniper Vietnam",
+        "img": "../img/gms/bsv.png",
+        "type": "exclusive",
+		"url": "../src/babysnipervietnam/index.html#baby-sniper-vietnam",
+        "categories": ["shooter"],
+        "source": "local"
+	},
+    {
+		"name": "Speed Stars",
+        "img": "../img/gms/speed-stars.png",
+        "type": "exclusive",
+		"url": "https://g.igroutka.ru//games//939//RkuS4mAVFlawO8gW//ea047bfe-1be2-472d-82e5-211458f40fc6//index.html",
+        "categories": ["other"],
+        "source": "proxied"
+	},
+    {
+		"name": "Solar Smash",
+        "img": "../img/gms/solar-smash.png",
+        "type": "exclusive",
+		"url": "../src/solar-smash/index.html#solar-smash",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Ironsnout",
+        "img": "../img/gms/ironsnout.png",
+        "type": "exclusive",
+		"url": "../src/ironsnout/index.html#ironsnout",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Bacon May Die",
+        "img": "../img/gms/bacon-may-die.png",
+        "type": "regular",
+		"url": "../src/bacon-may-die/index.html#bacon-may-die",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Bank Robbery",
+        "img": "../img/gms/bank-robbery.png",
+        "type": "regular",
+		"url": "../src/bank-robbery/index.html#bank-robbery",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Bank Robbery 2",
+        "img": "../img/gms/bank-robbery2.png",
+        "type": "regular",
+		"url": "../src/bank-robbery/2/index.html#bank-robbery-2",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Bank Robbery 3",
+        "img": "../img/gms/bank-robbery3.png",
+        "type": "regular",
+		"url": "../src/bank-robbery/3/index.html#bank-robbery-3",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Ultrapool",
+        "img": "../img/gms/ultrapool.png",
+        "type": "exclusive",
+		"url": "../src/ultrapool/index.html#ultrapool",
+        "categories": ["puzzle", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Escape Road 3",
+        "img": "../img/gms/escape-road-3.png",
+        "type": "regular",
+		"url": "../src/escape-road/3/index.html#escape-road-3",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Stardew Valley",
+        "img": "../img/gms/stardew-valley.png",
+        "type": "exclusive",
+		"url": "../src/stardew-valley/index.html#stardew-valley",
+        "categories": ["rpg"],
+        "source": "local"
+	},
+    {
+		"name": "Dumb Ways to Die",
+        "img": "../img/gms/dwtd.png",
+        "type": "exclusive",
+		"url": "../src/dwtd/index.html#dumb-ways-to-die",
+        "categories": ["puzzle"],
+        "source": "local"
+	},
+    {
+		"name": "Geometry Dash [FULL]",
+        "img": "../img/gms/geometry-dash.png",
+        "type": "exclusive",
+		"url": "https://web-dashers.github.io",
+        "categories": ["rhythm", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Inscryption",
+        "img": "../img/gms/inscryption.png",
+        "type": "exclusive",
+		"url": "https://reeyuki.github.io/InscryptionWebport/",
+        "categories": ["puzzle", "horror"],
+        "source": "proxied"
+	},
+    {
+		"name": "Night In The Woods",
+        "img": "../img/gms/night-in-the-woods.png",
+        "type": "exclusive",
+		"url": "https://reeyuki.github.io/NightInTheWoods/",
+        "categories": ["adventure", "port", "horror"],
+        "source": "proxied"
+	},
+    {
+		"name": "Plague Inc: Evolved",
+        "img": "../img/gms/plague-inc.png",
+        "type": "exclusive",
+		"url": "../src/pie/index.html#plague-inc-evolved",
+        "categories": ["puzzle"],
+        "source": "local"
+	},
+    {
+		"name": "Who's Your Daddy?",
+        "img": "../img/gms/whos-your-daddy.png",
+        "type": "exclusive",
+		"url": "../src/whos-your-daddy/index.html#whos-your-daddy",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "I Have No Mouth and I Must Scream",
+        "img": "../img/gms/larplarplarp.png",
+        "type": "exclusive",
+		"url": "../src/larp/index.html#i-have-no-mouth-and-i-must-scream",
+        "categories": ["horror"],
+        "source": "local"
+	},
+    {
+		"name": "Plonky",
+        "img": "../img/gms/plonky.png",
+        "type": "regular",
+		"url": "https://arcadrome.com/embed/plonky",
+        "categories": ["platformer"],
+        "source": "proxied"
+	},
+    {
+		"name": "Dreadhead Parkour",
+        "img": "../img/gms/dreadhead-parkour.png",
+        "type": "regular",
+		"url": "https://dreadheadparkour.gitlab.io/file/",
+        "categories": ["platformer"],
+        "source": "proxied"
+	},
+    {
+		"name": "Portal",
+        "img": "../img/gms/portal2.png",
+        "type": "exclusive",
+		"url": "https://yikes.pw/portal/",
+        "categories": ["puzzle"],
+        "source": "proxied"
+	},
+    {
+		"name": "Half-Life 2",
+        "img": "../img/gms/hl2.png",
+        "type": "exclusive",
+		"url": "../src/hl2/index.html#half-life-2",
+        "categories": ["shooter", "adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Trees Hate You",
+        "img": "../img/gms/trees-hate-you.png",
+        "type": "exclusive",
+		"url": "../src/trees-hate-you/index.html#trees-hate-you",
+        "categories": ["platformer", "adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Tung Sahur Horror",
+        "img": "../img/gms/tsh.png",
+        "type": "exclusive",
+		"url": "../src/tung-sahur-horror/index.html#tung-sahur-horror",
+        "categories": ["horror", "adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Tung Tung Tung Sahur Obby",
+        "img": "../img/gms/tto.png",
+        "type": "exclusive",
+		"url": "../src/triplet-obby/index.html#tung-tung-tung-sahur-obby",
+        "categories": ["platformer", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Gacha Life",
+        "img": "../img/gms/gachalife.png",
+        "type": "regular",
+		"url": "../src/gachalife/index.html#gacha-life",
+        "categories": ["other", "adventure"],
+        "source": "local"
+	},
+    {
+		"name": "Gacha Club",
+        "img": "../img/gms/gachaclub.png",
+        "type": "regular",
+		"url": "../src/gachaclub/index.html#gacha-club",
+        "categories": ["other", "adventure"],
+        "source": "local"
+	},
+    {
+		"name": "Gachaverse",
+        "img": "../img/gms/gachaverse.png",
+        "type": "regular",
+		"url": "../src/gachaverse/index.html#gachaverse",
+        "categories": ["other", "adventure"],
+        "source": "local"
+	},
+    {
+        "name": "Epstein Clicker",
+        "img": "../img/gms/stein-clicker.png",
+        "type": "exclusive",
+        "url": "https://html.itch.zone/html/16762616/UpdatedEC/index.html?v=1773192688",
+        "categories": ["other", "adventure"],
+        "source": "proxied"
+    },
+    {
+		"name": "T³ (T3, Triple T's Basics, T Cubed)",
+        "img": "../img/gms/t3.png",
+        "type": "exclusive",
+		"url": "../src/t3/index.html#t3",
+        "categories": ["other", "port"],
+        "source": "local"
+	},
+    {
+		"name": "20 Minutes Till Dawn",
+        "img": "../img/gms/20mttd.png",
+        "type": "exclusive",
+		"url": "../src/20minutestilldawn/index.html#20-minutes-till-dawn",
+        "categories": ["other", "port"],
+        "source": "local"
+	},
+    {
+		"name": "10 Minutes Till Dawn",
+        "img": "../img/gms/10mttd.png",
+        "type": "regular",
+		"url": "../src/10minutestilldawn/index.html#10-minutes-till-dawn",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Spaceflight Simulator",
+        "img": "../img/gms/spaceflight-simulator.png",
+        "type": "exclusive",
+		"url": "../src/spaceflight-sim/index.html#spaceflight-simulator",
+        "categories": ["other", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Five Nights At Frickbears 3",
+        "img": "../img/gms/fnafrick3.png",
+        "type": "regular",
+		"url": "../src/fnafrick3/index.html#five-nights-at-frickbears-3",
+        "categories": ["horror", "port"],
+        "source": "local"
+	},
+    {
+		"name": "60 Seconds Burger Run",
+        "img": "../img/gms/60sbr.png",
+        "type": "regular",
+		"url": "../src/60-sec/burger/index.html#60-seconds-burger-run",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "60 Seconds Santa Run",
+        "img": "../img/gms/60ssr.png",
+        "type": "regular",
+		"url": "../src/60-sec/santa/index.html#60-seconds-santa-run",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "4th And Goal 2022",
+        "img": "../img/gms/4ag2022.png",
+        "type": "regular",
+		"url": "../src/4th-and-goal-2022/index.html#4th-and-goal-2022",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Raft; Survival",
+        "img": "../img/gms/raft.png",
+        "type": "exclusive",
+		"url": "../src/raft-survival/index.html#raft-survival",
+        "categories": ["other", "port"],
+        "source": "local"
+	},
+    {
+		"name": "The Baby In Yellow",
+        "img": "../img/gms/tbiy.png",
+        "type": "regular",
+		"url": "https://ext.minijuegosgratis.com/the-baby-in-yellow-horror-game/index.html?mp_assets=https://s2.minijuegosgratis.com/",
+        "categories": ["other", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "Dude Theft Auto",
+        "img": "../img/gms/dta.png",
+        "type": "regular",
+		"url": "https://dudetheftauto.io/embed/dude-theft-auto",
+        "categories": ["other"],
+        "source": "proxied"
+	},
+    {
+		"name": "Lacey's Flash Games",
+        "img": "../img/gms/lfg.png",
+        "type": "exclusive",
+		"url": "../src/lfg/index.html#lacys-flash-games",
+        "categories": ["other", "adventure", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Grow a Garden",
+        "img": "../img/gms/gag.png",
+        "type": "regular",
+		"url": "https://script.google.com/macros/s/AKfycbwK_YDMKEccZyVOz_fpe66G4Je4VyFPdT10OdaKpM699Utzbq41n2m6OXqAzpX0oqrLTA/exec",
+        "categories": ["other", "adventure"],
+        "source": "local"
+	},
+    {
+		"name": "Human Expenditure Program",
+        "img": "../img/gms/hep.png",
+        "type": "exclusive",
+		"url": "../src/hep/index.html#human-expenditure-program",
+        "categories": ["other", "port"],
+        "source": "local"
+	},
+    {
+		"name": "Blade Ball",
+        "img": "../img/gms/blade-ball.png",
+        "type": "regular",
+		"url": "../src/blade-ball/index.html#blade-ball",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Tattletail",
+        "img": "../img/gms/tattletail.png",
+        "type": "regular",
+		"url": "../src/tattletail/index.html#tattletail",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Stickman Dragon Fight",
+        "img": "../img/gms/sdf.png",
+        "type": "regular",
+		"url": "https://bitlifeonline.github.io/stickman-dragon-fight/",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Seven Days In Purgatory",
+        "img": "../img/gms/sdip.png",
+        "type": "regular",
+		"url": "https://gnhustgames.github.io/sdip/",
+        "categories": ["horror"],
+        "source": "proxied"
+	},
+    {
+		"name": "Papers, Please",
+        "img": "../img/gms/papers-please.png",
+        "type": "regular",
+		"url": "../src/papers-please/index.html#papers-please",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Super Liquid Soccer",
+        "img": "../img/gms/sls.png",
+        "type": "regular",
+		"url": "https://superliquidsoccer.gitlab.io/file/",
+        "categories": ["sports"],
+        "source": "local"
+	},
+    {
+		"name": "Flash Player/Emulator",
+        "img": "../img/gms/flash-player.png",
+        "type": "regular",
+		"url": "../src/flash/index.html#flash-player",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Space Waves",
+        "img": "../img/gms/space-waves.png",
+        "type": "regular",
+		"url": "../src/space-waves/index.html#space-waves",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Needy Streamer Overload",
+        "img": "../img/gms/nso.png",
+        "type": "regular",
+		"url": "../src/nso/index.html#needy-streamer-overload",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "UvuvwevwevweOnye<br>tenvewveUgwemubw<br>emOssas",
+        "img": "../img/gms/UvuvwevwevweOnyetenvewveUgwemubwemOssas.png",
+        "type": "regular",
+		"url": "../src/ossas/index.html#UvuvwevwevweOnyetenvewveUgwemubwemOssas",
+        "categories": ["other", "port", "horror"],
+        "source": "local"
+	},
+    {
+		"name": "Fih",
+        "img": "../img/gms/fih.png",
+        "type": "regular",
+		"url": "../src/fih/index.html#fih",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Academytale",
+        "img": "../img/gms/academytale.png",
+        "type": "regular",
+		"url": "../src/academytale/index.html#academytale",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Cruelty Squad",
+        "img": "../img/gms/cruelty-squad.png",
+        "type": "regular",
+		"url": "../src/cruelty-squad/index.html#cruelty-squad",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "MiSide",
+        "img": "../img/gms/miside.png",
+        "type": "exclusive",
+		"url": "../src/miside/index.html#miside",
+        "categories": ["other", "port", "horror"],
+        "source": "local"
+	},
+    {
+		"name": "Deepest Sword",
+        "img": "../img/gms/deepest-sword.png",
+        "type": "regular",
+		"url": "../src/deepest-sword/index.html#deepest-sword",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Slendytubbies",
+        "img": "../img/gms/slendytubbies.png",
+        "type": "regular",
+		"url": "../src/slendytubbies/index.html#slendytubbies",
+        "categories": ["horror"],
+        "source": "local"
+	},
+    {
+		"name": "Slendytubbies 2",
+        "img": "../img/gms/slendytubbies2.png",
+        "type": "regular",
+		"url": "../src/slendytubbies/2/index.html#slendytubbies-2",
+        "categories": ["horror"],
+        "source": "local"
+	},
+    {
+		"name": "Slendytubbies 2d",
+        "img": "../img/gms/slendytubbies2d.png",
+        "type": "regular",
+		"url": "../src/slendytubbies/2d/index.html#slendytubbies-2d",
+        "categories": ["horror"],
+        "source": "local"
+	},
+    {
+		"name": "Fears To Fathom; Home Alone",
+        "img": "../img/gms/fears-to-fathom-home-alone.png",
+        "type": "regular",
+		"url": "../src/fears-to-fathom/homealone/index.html#fears-to-fathom-home-alone",
+        "categories": ["horror"],
+        "source": "local"
+	},
+    {
+		"name": "Re:Run (Re Run)",
+        "img": "../img/gms/rerun.png",
+        "type": "regular",
+		"url": "../src/rerun/index.html#rerun",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Sonic Mania",
+        "img": "../img/gms/sonic-mania.png",
+        "type": "regular",
+		"url": "https://tutoring-services.org/extra/main/index.html",
+        "categories": ["other"],
+        "source": "proxied"
+	},
+    {
+		"name": "Sonic 1",
+        "img": "../img/gms/sonic.png",
+        "type": "regular",
+		"url": "../src/sonic/index.html#sonic-1",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Sonic 2",
+        "img": "../img/gms/sonic-2.png",
+        "type": "regular",
+		"url": "../src/sonic/2/index.html#sonic-2",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Sonic 3",
+        "img": "../img/gms/sonic-3.png",
+        "type": "regular",
+		"url": "../src/sonic/3/index.html#sonic-3",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Sonic.EXE",
+        "img": "../img/gms/sonic-exe.png",
+        "type": "regular",
+		"url": "../src/sonic/exe/index.html#sonic-exe",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Soccer Skills Euro Cup",
+        "img": "../img/gms/ssec.png",
+        "type": "regular",
+		"url": "https://soccerskills-eurocup.gitlab.io/file/",
+        "categories": ["sports"],
+        "source": "proxied"
+	},
+    {
+		"name": "Sonic CD",
+        "img": "../img/gms/sonic-cd.png",
+        "type": "regular",
+		"url": "../src/sonic/cd/index.html#sonic-cd",
+        "categories": ["other"],
+        "source": "local"
+	},
+    {
+		"name": "Rocket Goal.io",
+        "img": "../img/gms/rocketgoalio.png",
+        "type": "regular",
+		"url": "https://rocketgoal.io/",
+        "categories": ["sports"],
+        "source": "proxied"
+	},
+        {
+		"name": "-3 (Minus Three)",
+        "img": "../img/gms/-3.png",
+        "type": "exclusive",
+		"url": "https://tutoring-services.org/games/minus3/index.html",
+        "categories": ["adventure", "port", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "Schoolboy Runaway",
+        "img": "../img/gms/sbra.png",
+        "type": "exclusive",
+		"url": "../src/schoolboy-runaway/index.html#schoolboy-runaway",
+        "categories": ["adventure", "port", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "-b (Minus B)",
+        "img": "../img/gms/-b.png",
+        "type": "exclusive",
+		"url": "https://tutoring-services.org/games/minusbbog/index.html",
+        "categories": ["adventure", "port", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "s.p.l.i.t (SPLIT)",
+        "img": "../img/gms/split.png",
+        "type": "exclusive",
+		"url": "../src/split/index.html#s.p.l.i.t",
+        "categories": ["horror", "port", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Just Shapes And Beats",
+        "img": "../img/gms/jsab.png",
+        "type": "exclusive",
+		"url": "../src/jsab/index.html#just-shapes-and-beats",
+        "categories": ["rhythm", "port", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "YoHoHo.IO",
+        "img": "../img/gms/yohoho.png",
+        "type": "exclusive",
+		"url": "../src/yohoho/index.html#yohohoio",
+        "categories": ["shooter", "port", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Night of the Consumers",
+        "img": "../img/gms/notc.png",
+        "type": "exclusive",
+		"url": "../src/notc/index.html#night-of-the-consumers",
+        "categories": ["horror", "port", "indie"],
+        "source": "local"
+	},
+	{
+		"name": "Krunker",
+        "img": "../img/gms/krunker.jpg",
+        "type": "exclusive",
+		"url": "https://totallynotio.krunker.zip",
+        "categories": ["shooter", "2player", "indie"],
+        "source": "proxied"
+	},
+    {
+		"name": "Moto X3M 4; Winter",
+        "img": "../img/gms/motox3m-winter.png",
+        "type": "regular",
+		"url": "../src/moto-x3m/winter/index.html#moto-x3m-winter",
+        "categories": ["adventure", "indie"],
+        "source": "local"
+	},
+    {
+		"name": "Basketball Stars 2026",
+        "img": "../img/gms/bs2026.png",
+        "type": "exclusive",
+		"url": "https://html5.gamedistribution.com/516d6908fbc848bdb89e65a58a43a7dc/?gd_sdk_referrer_url=https://basketballstars2026.io/basketball-stars-2026",
+        "categories": ["sports", "2player"],
+        "source": "proxied"
+	},
+	{
+		"name": "Tomb of the Mask",
+        "img": "../img/gms/totm.png",
+        "type": "exclusive",
+		"url": "https://tomb-of-the-mask-online.github.io/file/",
+        "categories": ["other", "port"],
+        "source": "proxied"
+	},
+    {
+		"name": "-!! RANDOM GAME",
+        "img": "../img/gms/dice.gif",
+        "type": "exclusive",
+        "categories": ["other"],
+        "source": "dice"
+	},
+    {
+		"name": "-! SUGGEST A GAME",
+        "img": "../img/gms/!!suggest.png",
+        "type": "exclusive",
+		"url": "https://forms.gle/ELsciiPdpuofGk4v8",
+        "categories": ["other"],
+        "source": "proxied"
+	}
+]
